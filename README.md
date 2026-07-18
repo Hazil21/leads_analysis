@@ -3,8 +3,8 @@
 ## Project Overview
 This project predicts whether a lead is likely to convert using supervised machine learning models.
 
-#Dataset
--real time leads dataset
+**Dataset:**
+-real world lead conversion dataset used for machine learning classification.
 
 ## Technologies Used
 - Python
